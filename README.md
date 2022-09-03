@@ -1,2 +1,2 @@
 # Contact-form
-ontact form created using html and css.
+Contact form created using html and css.
